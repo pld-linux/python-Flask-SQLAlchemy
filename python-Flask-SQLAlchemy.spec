@@ -14,7 +14,7 @@ Source0:	http://pypi.python.org/packages/source/F/Flask-SQLAlchemy/%{module}-%{v
 #URL:		-
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-Flask
 Requires:	python-SQLAlchemy
 Requires:	python-modules
